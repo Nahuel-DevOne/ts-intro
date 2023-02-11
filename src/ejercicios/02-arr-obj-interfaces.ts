@@ -1,30 +1,30 @@
-/*
-    ===== Código de TypeScript =====
-*/
+// /*
+//     ===== Código de TypeScript =====
+// */
 
-// arreglos
+// // arreglos
 
-// let habilidades: (string | number | boolean)[] = ['Bash', 'Counter', 'Healing', 100, true];
-let habilidades: string[] = ['Bash', 'Counter', 'Healing'];
+// // let habilidades: (string | number | boolean)[] = ['Bash', 'Counter', 'Healing', 100, true];
+// let habilidades: string[] = ['Bash', 'Counter', 'Healing'];
 
-// Interface
-interface Personaje {
-    nombre: string,
-    hp: number,
-    habilidades: string[],
-    puebloNatal?: string
-}
+// // Interface
+// interface Personaje {
+//     nombre: string,
+//     hp: number,
+//     habilidades: string[],
+//     puebloNatal?: string
+// }
 
-// Objeto
+// // Objeto
 
-const personajePrincipal: Personaje = {
-    nombre: 'Nahuel',
-    hp: 100,
-    habilidades: ['JavaScript', 'TypeScript', 'Node.js', 'Python', 'C#']
-}
+// const personajePrincipal: Personaje = {
+//     nombre: 'Nahuel',
+//     hp: 100,
+//     habilidades: ['JavaScript', 'TypeScript', 'Node.js', 'Python', 'C#']
+// }
 
-personajePrincipal.puebloNatal = 'Capital'
+// personajePrincipal.puebloNatal = 'Capital'
 
-console.table(personajePrincipal);
+// console.table(personajePrincipal);
 
 

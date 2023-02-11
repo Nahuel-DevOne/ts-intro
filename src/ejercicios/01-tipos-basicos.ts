@@ -2,11 +2,11 @@
     ===== Código de TypeScript =====
 */
 
-let nombre: string = 'Nahuel';
-let hp: number | string = 99;
-let estaVivo: boolean = true;
+// let nombre: string = 'Nahuel';
+// let hp: number | string = 99;
+// let estaVivo: boolean = true;
 
-hp = 'FULL'
+// hp = 'FULL'
 
-console.log(nombre, hp);
+// console.log(nombre, hp);
 
