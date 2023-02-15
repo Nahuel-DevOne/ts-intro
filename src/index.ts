@@ -2,7 +2,3 @@
     ===== Código de TypeScript =====
 */
 
-
-
-
-
